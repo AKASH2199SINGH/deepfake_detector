@@ -1,0 +1,30 @@
+# -------------------------
+# Backend Framework
+# -------------------------
+fastapi
+uvicorn
+
+# -------------------------
+# Machine Learning
+# -------------------------
+torch
+torchvision
+numpy
+
+# -------------------------
+# Image & Video Processing
+# -------------------------
+pillow
+opencv-python
+
+# -------------------------
+# API / Request Handling
+# -------------------------
+python-multipart
+requests
+pydantic
+
+# -------------------------
+# (Optional but recommended)
+# -------------------------
+scipy

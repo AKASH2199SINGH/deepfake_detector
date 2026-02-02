@@ -1,0 +1,39 @@
+venv\Scripts\activate
+
+
+uvicorn backend.app.main:app --reload
+
+
+
+pip install fastapi uvicorn[standard]
+
+
+
+python -m ml.training.train_image
+
+
+
+python ml/training/train_image.py
+
+
+
+
+python ml/preprocessing/split_dataset.py
+
+
+
+python ml/preprocessing/check_dataset.py
+
+
+
+pip install -r requirements.txt
+
+
+
+
+python -m venv venv
+venv\Scripts\activate
+
+
+
+
